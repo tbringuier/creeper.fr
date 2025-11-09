@@ -261,3 +261,58 @@ figcaption {
         display: none !important;
     }
 }
+
+/* from louino2478/louino.fr */
+/* Grille de services */
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  list-style: none;
+  padding: 0;
+  margin-top: 2rem;
+}
+
+/* Style de chaque carte */
+.service-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 2rem 1.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background-color: #fafafa;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+/* Effet au survol de la souris */
+.service-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Logo à l'intérieur de la carte */
+.service-card img {
+  height: 64px;
+  width: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+/* Titre du service */
+.service-card h3 {
+  margin: 0.5rem 0;
+  font-size: 1.25rem;
+  color: #000000;
+}
+
+/* Description du service */
+.service-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #555;
+  flex-grow: 1;
+}

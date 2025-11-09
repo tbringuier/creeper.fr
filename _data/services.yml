@@ -1,0 +1,36 @@
+---
+
+- name: Vaultwarden
+  url: https://bw.folf.fr
+  logo: vaultwarden.svg
+  description: Implémentation légère du serveur Bitwarden compatible avec les clients officiels.
+
+- name: Memos
+  url: https://memos.folf.fr
+  logo: memos.png
+  description: Application de prise de notes, simple et sans télémétrie.
+
+- name: VERT.sh
+  url: https://convert.folf.fr
+  logo: vert.svg
+  description: Outil open source de conversion d’images, d’audio.
+
+- name: StirlingPDF
+  url: https://pdf.folf.fr
+  logo: stirlingpdf.svg
+  description: Suite web open source pour manipuler et convertir des PDF.
+
+- name: IT-Tools
+  url: https://tools.folf.fr
+  logo: it-tools.svg
+  description: Collection open source d’outils en ligne.
+
+- name: MiniQR
+  url: https://qr.folf.fr
+  logo: miniqr.svg
+  description: Générateur et lecteur de QR codes minimaliste et personnalisable.
+
+- name: PrivateBin
+  url: https://bin.folf.fr
+  logo: privatebin.svg
+  description: Pastebin chiffré côté client, « zéro connaissance ».
