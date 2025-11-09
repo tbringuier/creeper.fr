@@ -427,15 +427,11 @@ Il est possible d’**implémenter différemment** ces **tunnels** **wireguard**
 
 [Router un subnet IPv4 chez soi avec WireGuard + VyOS](https://blog.azernet.xyz/router-un-subnet-ipv4-chez-soi-avec-wireguard-vyos-2/)
 
-Si d’autres personnes souhaitent faire figurer leurs « forks » de cette documentation, n’hésitez pas à me DM Discord ou Telegram!
-
-# Si vous avez apprécié cette documentation…
-
-**N'hésitez pas à me [faire un don](https://creeper.fr/about#me-faire-un-don) pour me remercier et me soutenir dans le maintien de cette documentation face aux mises à jour furtives de Debian.**
+Si d’autres personnes souhaitent faire figurer leurs « forks » de cette documentation, n’hésitez pas à me DM Discord ou Telegram !
 
 ##### [Avoir des adresses IPv4/IPv6 chez soi avec un tunnel Wireguard](https://creeper.fr/wireguard) by [Tristan BRINGUIER](https://creeper.fr) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-#### Implémentations futures :
+#### Implémentations futures (quand j’aurais le temps de les écrire) :
 
 - Firewalling avec UFW
 - Routage bloc IPv6
