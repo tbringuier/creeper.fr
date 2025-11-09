@@ -1,9 +1,7 @@
 links:
 - title: Accueil
   url: /
+- title: Services
+  url: /apps
 - title: À propos
   url: /about
-- title: Applications
-  url: /apps
-- title: Trucs
-  url: /trucs
